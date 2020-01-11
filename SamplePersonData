@@ -1,0 +1,231 @@
+2020-01-04 10:30:04{
+  "device": "access point",
+  "device-id": "ap1-1",
+  "event": "new client",
+  "guest-id": "Thomas"
+}2020-01-04 11:14:00{
+  "device": "door sensor",
+  "device-id": "110",
+  "event": "unlocked no keycard",
+  "guest-id": "Thomas"
+}2020-01-04 11:14:02{
+  "device": "access point",
+  "device-id": "ap1-4",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 11:14:07{
+  "device": "door sensor",
+  "device-id": "110",
+  "event": "door closed",
+  "guest-id": "Thomas"
+}2020-01-04 11:14:22{
+  "device": "access point",
+  "device-id": "ap1-2",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 11:20:00{
+  "device": "access point",
+  "device-id": "ap1-4",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 11:20:20{
+  "device": "access point",
+  "device-id": "ap1-1",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 11:20:30{
+  "device": "door sensor",
+  "device-id": "110",
+  "event": "successful keycard unlock",
+  "guest-id": "Thomas"
+}2020-01-04 11:20:37{
+  "device": "door sensor",
+  "device-id": "110",
+  "event": "door closed",
+  "guest-id": "Thomas"
+}2020-01-04 12:02:22{
+  "device": "access point",
+  "device-id": "ap1-4",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 12:02:35{
+  "device": "access point",
+  "device-id": "ap1-3",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 14:30:50{
+  "device": "access point",
+  "device-id": "ap1-4",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 14:31:00{
+  "device": "door sensor",
+  "device-id": "110",
+  "event": "successful keycard unlock",
+  "guest-id": "Thomas"
+}2020-01-04 14:31:03{
+  "device": "access point",
+  "device-id": "ap1-1",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 14:31:07{
+  "device": "door sensor",
+  "device-id": "110",
+  "event": "door closed",
+  "guest-id": "Thomas"
+}2020-01-04 17:30:06{
+  "device": "access point",
+  "device-id": "ap1-4",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 17:35:00{
+  "device": "access point",
+  "device-id": "ap1-3",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 19:00:33{
+  "device": "access point",
+  "device-id": "ap1-2",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 19:00:34{
+  "device": "door sensor",
+  "device-id": "151",
+  "event": "successful keycard unlock",
+  "guest-id": "Thomas"
+}2020-01-04 19:00:39{
+  "device": "door sensor",
+  "device-id": "151",
+  "event": "door closed",
+  "guest-id": "Thomas"
+}2020-01-04 20:00:05{
+  "device": "door sensor",
+  "device-id": "151",
+  "event": "unlocked no keycard",
+  "guest-id": "Thomas"
+}2020-01-04 20:00:10{
+  "device": "door sensor",
+  "device-id": "151",
+  "event": "door closed",
+  "guest-id": "Thomas"
+}2020-01-04 20:00:11{
+  "device": "door sensor",
+  "device-id": "155",
+  "event": "successful keycard unlock",
+  "guest-id": "Thomas"
+}2020-01-04 20:00:16{
+  "device": "door sensor",
+  "device-id": "155",
+  "event": "door closed",
+  "guest-id": "Thomas"
+}2020-01-04 20:30:49{
+  "device": "door sensor",
+  "device-id": "155",
+  "event": "unlocked no keycard",
+  "guest-id": "Thomas"
+}2020-01-04 20:30:52{
+  "device": "door sensor",
+  "device-id": "155",
+  "event": "door closed",
+  "guest-id": "Thomas"
+}2020-01-04 20:31:05{
+  "device": "access point",
+  "device-id": "ap2-3",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 20:31:06{
+  "device": "access point",
+  "device-id": "ap2-2",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 20:31:07{
+  "device": "door sensor",
+  "device-id": "248",
+  "event": "successful keycard unlock",
+  "guest-id": "Thomas"
+}2020-01-04 20:31:11{
+  "device": "door sensor",
+  "device-id": "248",
+  "event": "door closed",
+  "guest-id": "Thomas"
+}2020-01-04 21:34:29{
+  "device": "door sensor",
+  "device-id": "248",
+  "event": "unlocked no keycard",
+  "guest-id": "Thomas"
+}2020-01-04 21:34:34{
+  "device": "door sensor",
+  "device-id": "248",
+  "event": "door closed",
+  "guest-id": "Thomas"
+}2020-01-04 21:34:43{
+  "device": "access point",
+  "device-id": "ap2-3",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 21:34:44{
+  "device": "access point",
+  "device-id": "ap2-3",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 21:34:56{
+  "device": "access point",
+  "device-id": "ap2-1",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 21:34:59{
+  "device": "access point",
+  "device-id": "ap2-2",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-04 21:40:33{
+  "device": "door sensor",
+  "device-id": "248",
+  "event": "successful keycard unlock",
+  "guest-id": "Thomas"
+}2020-01-04 21:40:38{
+  "device": "door sensor",
+  "device-id": "248",
+  "event": "door closed",
+  "guest-id": "Thomas"
+}2020-01-05 08:52:00{
+  "device": "door sensor",
+  "device-id": "248",
+  "event": "unlocked no keycard",
+  "guest-id": "Thomas"
+}2020-01-05 08:52:03{
+  "device": "access point",
+  "device-id": "ap2-3",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-05 08:52:07{
+  "device": "door sensor",
+  "device-id": "248",
+  "event": "door closed",
+  "guest-id": "Thomas"
+}2020-01-05 08:52:42{
+  "device": "access point",
+  "device-id": "ap1-4",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-05 09:21:25{
+  "device": "access point",
+  "device-id": "ap2-3",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-05 09:21:28{
+  "device": "access point",
+  "device-id": "ap2-1",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-05 09:23:30{
+  "device": "access point",
+  "device-id": "ap2-3",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}2020-01-05 09:25:00{
+  "device": "access point",
+  "device-id": "ap1-4",
+  "event": "user connected",
+  "guest-id": "Thomas"
+}
