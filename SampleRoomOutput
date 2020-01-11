@@ -1,0 +1,31 @@
+2020-01-04 15:06:05{
+  "device": "door sensor",
+  "device-id": "105",
+  "event": "successful keycard unlock",
+  "guest-id": "Marc-Andre"
+}2020-01-04 15:06:12{
+  "device": "door sensor",
+  "device-id": "105",
+  "event": "door closed",
+  "guest-id": "Marc-Andre"
+}2020-01-04 15:10:22{
+  "device": "door sensor",
+  "device-id": "105",
+  "event": "successful keycard unlock",
+  "guest-id": "Dave"
+}2020-01-04 15:10:30{
+  "device": "door sensor",
+  "device-id": "105",
+  "event": "door closed",
+  "guest-id": "Dave"
+}2020-01-04 15:11:22{
+  "device": "door sensor",
+  "device-id": "105",
+  "event": "unlocked no keycard",
+  "guest-id": "Marc-Andre"
+}2020-01-04 15:11:30{
+  "device": "door sensor",
+  "device-id": "105",
+  "event": "door closed",
+  "guest-id": "Marc-Andre"
+}
