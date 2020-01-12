@@ -1,5 +1,5 @@
 
-from flask import Flask, escape, request, jsonify
+# from flask import Flask, escape, request, jsonify
 import json
 from datetime import datetime
 with open('dataset.json') as json_file:
@@ -22,15 +22,15 @@ for time in data:
             guests[name] = [obj]
         else:
             guests[name].append(obj)
+print([ { "value": x['time'], "label": x[]  } for x in guests['Veronica'] ])
 
+# app = Flask(__name__)
 
-app = Flask(__name__)
-
-@app.route('/')
-def hello():
-    return jsonify(guests['Veronica'])
-if __name__ == '__main__':
-    app.run()
+# @app.route('/')
+# def hello():
+#     return jsonify(guests['Veronica'])
+# if __name__ == '__main__':
+#     app.run()
 
 
 
