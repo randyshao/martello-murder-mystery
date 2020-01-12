@@ -36,7 +36,9 @@
     transform: rotate(360deg);
   }
 }
-
+.header-bar {
+  background-color: white;
+}
 .hidden {
   display: none;
 }
