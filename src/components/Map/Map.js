@@ -1,5 +1,6 @@
 import React from 'react';
 import Floor_1 from './floor1.png';
+import hotel from './hotel.svg'
 class Map extends React.Component {
     componentDidMount() {
         const canvas = this.refs.canvas
