@@ -1,6 +1,7 @@
 import React from 'react';
 import Map from './components/Map/Map';
 import Bar from './components/Map/Bar';
+import Sidebar from './components/Map/Sidebar';
 import './App.css';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <header>
         <Bar />
       </header>
+        <Sidebar />
        <Map />
     </div>
   );
